@@ -15,7 +15,7 @@ The single HTML file includes:
 
 ## 📂 **Project Structure**
 
-/project-root └── MyWebsite.html (contains both HTML and CSS)
+/project-root └── MyWebsite.html (contains both HTML and CSS)<br>
 /assests - contains for images and logos
 ---
 
